@@ -1,4 +1,3 @@
-## Dark Fb VIP
 ### Install
 ```
 $ pkg update && pkg upgrade
